@@ -1,38 +1,26 @@
 // constants/index.ts
 import heroBg from "../public/assets/images/hero.jpg";
-import { PropertyProps } from "../interfaces";
-import logo from "../public/assets/images/logo.png";
 
 export const HERO_BG = heroBg;
-export const logoTop = logo;
-
-export const FILTERS = [
-  "Top Villa",
-  "Self Checkin",
-  "Pet Friendly",
-  "Countryside",
-  "Luxury",
-  "Near Beach",
-];
 
 // API URLs
-export const API_URLS = {
-  GET_PROPERTIES: "/api/properties",
-  BOOK_PROPERTY: "/api/book",
-};
+// export const API_URLS = {
+//   GET_PROPERTIES: "/api/properties",
+//   BOOK_PROPERTY: "/api/book",
+// };
 
 // UI Text
-export const UI_TEXT = {
-  BOOK_NOW: "Book Now",
-  VIEW_DETAILS: "View Details",
-  LOADING: "Loading...",
-};
+// export const UI_TEXT = {
+//   BOOK_NOW: "Book Now",
+//   VIEW_DETAILS: "View Details",
+//   LOADING: "Loading...",
+// };
 
 // Configuration
-export const CONFIG = {
-  MAX_ITEMS_PER_PAGE: 10,
-  DEFAULT_LANGUAGE: "en",
-};
+// export const CONFIG = {
+//   MAX_ITEMS_PER_PAGE: 10,
+//   DEFAULT_LANGUAGE: "en",
+// };
 
 export const JOB_LISTINGS = [
   {

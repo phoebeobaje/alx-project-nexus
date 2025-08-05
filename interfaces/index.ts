@@ -31,6 +31,8 @@ export interface JobListing {
   category: string[];
   experienceLevel: string;
   description: string;
+  qualifications: string[];
+  responsibilities: string[];
   logo: string;
   postedAt: string;
   isFeatured: boolean;
