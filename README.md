@@ -1,4 +1,5 @@
 # alx-project-nexus
+
 # Project Nexus - ProDev Frontend Engineering Documentation
 
 Welcome to **Project Nexus**, a comprehensive knowledge hub documenting key learnings and experiences from the **ALX ProDev Frontend Engineering Program**. This repository showcases the tools, technologies, and concepts mastered throughout the program — and serves as a reference guide for both current and future learners.
@@ -10,8 +11,6 @@ Welcome to **Project Nexus**, a comprehensive knowledge hub documenting key lear
 The **ProDev Frontend Engineering Program** is an intensive, hands-on journey into modern frontend development. It blends theory with practical experience through real-world challenges, peer collaboration, and exposure to industry-relevant tools.
 
 > The program also integrates with backend learners to simulate real-world product development workflows.
-
-
 
 ## 📚 Major Learnings
 
@@ -25,7 +24,6 @@ The **ProDev Frontend Engineering Program** is an intensive, hands-on journey in
 - **System Design** – Understanding scalability, maintainability, and modularity in frontend systems.
 - **React Native & Expo** – Mobile app development using React’s paradigms.
 - **Progressive Web Apps (PWA)** – Blending web and native experiences.
-
 
 ### 📈 Frontend Concepts Mastered
 
@@ -41,16 +39,14 @@ The **ProDev Frontend Engineering Program** is an intensive, hands-on journey in
 
 ## 🧩 Challenges & Solutions
 
-| Challenge | Solution |
-|----------|----------|
-| Building responsive UIs quickly | Leveraged TailwindCSS utility classes and Flexbox/Grid layout |
-| Managing complex component state | Applied useReducer and lifted state effectively |
-| Type errors and runtime bugs | Used TypeScript with strict mode and interfaces |
-| API integration issues | Implemented error handling, retries, and loading states |
-| Time management in projects | Followed agile methods (Kanban board, standups) |
-| Backend collaboration | Paired with backend peers, used Postman and API contracts |
-
-
+| Challenge                        | Solution                                                      |
+| -------------------------------- | ------------------------------------------------------------- |
+| Building responsive UIs quickly  | Leveraged TailwindCSS utility classes and Flexbox/Grid layout |
+| Managing complex component state | Applied useReducer and lifted state effectively               |
+| Type errors and runtime bugs     | Used TypeScript with strict mode and interfaces               |
+| API integration issues           | Implemented error handling, retries, and loading states       |
+| Time management in projects      | Followed agile methods (Kanban board, standups)               |
+| Backend collaboration            | Paired with backend peers, used Postman and API contracts     |
 
 ## ✅ Best Practices & Takeaways
 
@@ -60,5 +56,3 @@ The **ProDev Frontend Engineering Program** is an intensive, hands-on journey in
 - **Documentation**: Maintained README files and comments for clarity.
 - **Communication**: Learned how to give and receive feedback during code reviews.
 - **Lifelong Learning**: The frontend world evolves rapidly — staying curious is key!
-
-
