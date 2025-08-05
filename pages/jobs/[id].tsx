@@ -71,7 +71,7 @@ const JobDetailsPage = () => {
           </div>
 
           {/* Skills */}
-          <div>
+          {/* <div>
             <h2 className="text-xl font-semibold mb-2">Professional Skills</h2>
             <ul className="space-y-2">
               {job.qualifications?.map((item, idx) => (
@@ -81,7 +81,7 @@ const JobDetailsPage = () => {
                 </li>
               ))}
             </ul>
-          </div>
+          </div> */}
 
           {/* Tags */}
           <div>
